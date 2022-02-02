@@ -11,4 +11,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariharan-subburaman/) , [MailTo](mailto:shariharan1821@gmail.com).
 <!-- - 📁 Find More About Me Here : [Click Here](https://hariharan1821.github.io/) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz408&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript)](https://github.com/hariharan1821)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1821&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript)](https://github.com/hariharan1821)
